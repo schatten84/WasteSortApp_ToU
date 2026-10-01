@@ -53,7 +53,7 @@ All 20 items, including their ground-truth category, are centrally defined in `a
 | 12 | Eggshell | Bio waste | Bio waste | 92 % | no |
 | 13 | Plastic yoghurt pot | Recyclables bin | Recyclables bin | 86 % | no |
 | 14 | Aluminium foil | Recyclables bin | Recyclables bin | 78 % | no |
-| 15 | Drinks carton (Tetra Pak) | Recyclables bin | **Recyclables bin** (deliberate misclassification re. paper confusion, see code comment) | 71 % | no |
+| 15 | Drinks carton (Tetra Pak) | Recyclables bin | Recyclables bin | 71 % | no |
 | 16 | Plastic shampoo bottle | Recyclables bin | Recyclables bin | 90 % | no |
 | 17 | Green wine bottle | Green glass | Green glass | 91 % | no |
 | 18 | Brown pharmaceutical bottle (glass) | Brown glass | Brown glass | 83 % | no |
