@@ -81,7 +81,7 @@ object StudyLogger {
             t.unclearFlag.toString(),
             t.participantResponse?.name ?: "NOT_ANSWERED",
             t.isCorrect?.toString() ?: "NOT_ANSWERED",
-            "%.2f".format(t.responseTimeSeconds)
+            "%.3f".format(t.responseTimeSeconds)
         ).joinToString(",")
     }
 
